@@ -1,0 +1,10 @@
+{
+    "name": "vocational-test-api",
+    "description": "API para test vocacional",
+    "type": "project",
+    "require": {
+        "php": "^7.3 || ^8.0", 
+        "ext-mysqli": "*",
+        "ext-json": "*"
+    }
+}
